@@ -15,4 +15,4 @@ Como dijo Barbie:
 
 - [x] ya lave mi ropa
 - [x] Ya fui a ver a mi girl
-- [] No he jugado Play :c
+- [ ] No he jugado Play :c
