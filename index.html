@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
+    <video id="videowrapper" autoplay loop muted> <!-- autoplay(para reproducir automaticamente), loop(para que cuando acabe, inicie otra vez) muted(para quitarle el video) -->
+      <source src="./bird_video.mp4" type="video/mp4">  <!-- etiquetas para poder agregar un video -->
+    </video>
     <div class="square">
         <div class="top">
          <h1>Fernando Cazares</h1>
@@ -18,6 +21,10 @@
          <p class="author">-La Barbie girl</p>
         </div>
     </div>
- 
+    <script
+    src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+    crossorigin="anonymous"></script>
+    <script src="./video.js"></script>
 </body>
 </html>
