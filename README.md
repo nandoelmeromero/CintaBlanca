@@ -16,3 +16,8 @@ Como dijo Barbie:
 - [x] ya lave mi ropa
 - [x] Ya fui a ver a mi girl
 - [ ] No he jugado Play :c
+
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
